@@ -1,0 +1,29 @@
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg[binary]
+
+# Scientific Computing
+numpy
+scipy
+pandas
+matplotlib
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+
+# Multi-objective Optimisation
+pymoo
+
+# Testing
+pytest
+httpx
